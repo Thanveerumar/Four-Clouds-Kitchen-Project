@@ -17,7 +17,7 @@
 
 <b>Login System</b> :
 
-<p>The Login system is used for suser authentication.</p>
+<p>The Login system is used for user authentication.</p>
 
 ![image_processing20210923-18363-haiz71](https://github.com/Arunkumar282/Four_Clouds_Kitchen_Project/assets/100655631/36ee1729-3bcc-458d-b2a2-501d6209aed3)
 
